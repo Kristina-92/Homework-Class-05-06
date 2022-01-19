@@ -1,0 +1,22 @@
+#myDynamicTable {
+    width: 200px;
+    height: fit-content;
+    border: 2px solid black;
+    color:rgb(158, 134, 180);
+    text-align: center;
+    border: 1px solid brown;
+    align-content: center;
+}
+
+tr, td {
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    width: 200px;
+    border: 1px solid black;
+    color:rgb(14, 119, 119);
+    text-align: center;
+}
